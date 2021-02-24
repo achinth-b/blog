@@ -1,4 +1,4 @@
-baseURL = "http://achinth.ca/"
+baseURL = "https://achinth.ca/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
