@@ -1,8 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All software - Achinth</title>
-        <link>http://achinth.ca/posts/categories/software/</link>
-        <description>All software | Achinth</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>achinth@student.ubc.ca (Achinth Bharadwaj)</managingEditor>
-            <webMaster>achinth@student.ubc.ca (Achinth Bharadwaj)</webMaster><atom:link href="http://achinth.ca/posts/categories/software/" rel="self" type="application/rss+xml" /></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>All software - Achinth</title><link>https://achinth.ca/blog/posts/categories/software/</link><description>All software | Achinth</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>achinth@student.ubc.ca (Achinth Bharadwaj)</managingEditor><webMaster>achinth@student.ubc.ca (Achinth Bharadwaj)</webMaster><atom:link href="https://achinth.ca/blog/posts/categories/software/" rel="self" type="application/rss+xml"/></channel></rss>
