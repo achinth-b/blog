@@ -1,0 +1,16 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://achinth.ca/</loc><lastmod>2021-02-24T00:33:58-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://achinth.ca/categories/</loc><lastmod>2021-02-24T00:33:58-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://achinth.ca/tags/code/</loc><lastmod>2021-02-24T00:33:58-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://achinth.ca/dubhacks/</loc><lastmod>2021-02-24T00:33:58-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://achinth.ca/posts/</loc><lastmod>2021-02-24T00:33:58-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://achinth.ca/tags/product/</loc><lastmod>2021-02-24T00:33:58-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://achinth.ca/categories/software/</loc><lastmod>2021-02-24T00:33:58-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://achinth.ca/tags/</loc><lastmod>2021-02-24T00:33:58-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://achinth.ca/gorge_floyd/</loc><lastmod>2020-06-01T18:55:27-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://achinth.ca/goals/</loc><lastmod>2020-05-13T00:25:00-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://achinth.ca/story_tell/</loc><lastmod>2020-05-10T18:55:27-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://achinth.ca/posts/categories/software/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
