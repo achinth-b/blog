@@ -3,6 +3,8 @@ title: "Why I don't answer questions about my ethnicity as 'South Asian'"
 date: 2021-02-27T00:33:58-08:00
 draft: false
 tags: ["self", "identity", "india", "asia", "decolonizing"]
+toc: 
+    auto: true
 ---
 
 Good morning, fellow reader, lurker and lover of information. To the wild reader who, yet again has stumbled upon this corner of the internet I call the recess of my thoughts, I say welcome.
@@ -11,9 +13,6 @@ Good morning, fellow reader, lurker and lover of information. To the wild reader
 There's more history to this than what meets the eye. If you want to know more, please do message me and I would be happy to share all the resources I can with you. If you've got your own flavour of identity, let's chat! I'm always looking to learn about what it means to be you.
 {{< /admonition >}}
 
-{{< admonition note "Why not support earlier versions of Hugo?" >}}
-Since [Markdown Render Hooks](https://gohugo.io/getting-started/configuration-markup#markdown-render-hooks) was introduced in the [Hugo Christmas Edition](https://gohugo.io/news/0.62.0-relnotes/), this theme only supports Hugo versions above **0.62.0**.
-{{< /admonition >}}
 
 ## Pretext
 
