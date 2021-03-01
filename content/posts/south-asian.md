@@ -13,7 +13,6 @@ Good morning, fellow reader, lurker and lover of information. To the wild reader
 There's more history to this than what meets the eye. If you want to know more, please do message me and I would be happy to share all the resources I can with you. If you've got your own flavour of identity, let's chat! I'm always looking to learn about what it means to be you.
 {{< /admonition >}}
 
-
 ## Pretext
 
 To the best of my perception, I do not believe that my parents have forced any views on me. Like any parent does, they did their best to instill a sense of religion and culture with my roots from the motherland. Despite their best efforts, I disagree with their beliefs and notions in God, rituals and praying, but my faith allows me to identify as Hindu while differing with the other majority of Indic practitioners who do.
