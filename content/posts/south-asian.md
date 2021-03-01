@@ -7,7 +7,7 @@ tags: ["self", "identity", "india", "asia", "decolonizing"]
 
 Good morning, fellow reader, lurker and lover of information. To the wild reader who, yet again has stumbled upon this corner of the internet I call the recess of my thoughts, I say welcome.
 
-{{< admonition Psst.' >}}
+{{< admonition Psst. >}}
 There's more history to this than what meets the eye. If you want to know more, please do message me and I would be happy to share all the resources I can with you. If you've got your own flavour of identity, let's chat! I'm always looking to learn about what it means to be you.
 {{< /admonition >}}
 
