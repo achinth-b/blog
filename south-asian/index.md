@@ -7,9 +7,6 @@ Good morning, fellow reader, lurker and lover of information. To the wild reader
 There's more history to this than what meets the eye. If you want to know more, please do message me and I would be happy to share all the resources I can with you. If you've got your own flavour of identity, let's chat! I'm always looking to learn about what it means to be you.
 {{< /admonition >}}
 
-{{< admonition note "Why not support earlier versions of Hugo?" >}}
-Since [Markdown Render Hooks](https://gohugo.io/getting-started/configuration-markup#markdown-render-hooks) was introduced in the [Hugo Christmas Edition](https://gohugo.io/news/0.62.0-relnotes/), this theme only supports Hugo versions above **0.62.0**.
-{{< /admonition >}}
 
 ## Pretext
 
